@@ -23,6 +23,7 @@ import static android.app.Activity.RESULT_OK;
 
 import android.app.Activity;
 import android.content.AsyncQueryHandler;
+import android.content.ContentProvider;
 import android.content.ContentResolver;
 import android.content.ContentValues;
 import android.content.Intent;
